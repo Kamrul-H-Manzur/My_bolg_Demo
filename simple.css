@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    background-color: cornsilk;
+    font-weight: 900;
+}
+h2{
+    background-color: deeppink;
+    border-radius: 10px;
+    color: cornsilk;
+}
+strong{
+    color: darkseagreen;
+}
+.imgi{
+    display: block;
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.background{
+    background-color: cornsilk;
+    text-align: justify;
+}
+.box{
+    background-color:snow;
+    align-items: center;
+    margin: 10px 180px 10px 180px;
+    padding: 10px 10px 5px 10px;
+    border-radius: 20px;
+}
