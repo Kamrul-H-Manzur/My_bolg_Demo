@@ -5,7 +5,7 @@ h1{
 }
 h2{
     background-color: deeppink;
-    border-radius: 10px;
+    border-radius: 5px;
     color: cornsilk;
 }
 strong{
@@ -26,5 +26,5 @@ strong{
     align-items: center;
     margin: 10px 180px 10px 180px;
     padding: 10px 10px 5px 10px;
-    border-radius: 20px;
+    border-radius: 25px;
 }
